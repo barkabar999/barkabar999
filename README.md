@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Synaptic149&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barkabar999&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 I am an ambivert, and avid Linux user, and I used to play the piano.
 You will find me on Reddit in the Gentoo subreddit
