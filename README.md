@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I am an ambivert, and avid Linux user, and I used to play the piano.
+You will find me on Reddit in the Gentoo subreddit
+Anyone who wants to email me, attach your GPG key because I like my emails encrypted.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barkabar999&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **barkabar999/barkabar999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
